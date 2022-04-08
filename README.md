@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @SkTamim
 - 👀 I’m interested in learning and teaching web technologies such as JavaScript, CSS etc.
-Also, I have interest in building tools like note app, word counter etc.
 I love to collaborate, communicate and help fellow students.
-- 🌱 I’m currently learning OOP in JavaScript, Team Management and Team Building.
+- 🌱 I’m currently learning React, Product Building.
 - 💞️ I’m looking to collaborate on web-based projects like HTML websites, JavaScript tools etc.
 - 📫 How to reach me - <br>
 Firstly, you can use a 🚁 or 🚀 to reach me(jokeing...😁)<br>
