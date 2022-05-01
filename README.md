@@ -12,7 +12,7 @@ I'm a passionate frontend developer having one year of experience in fronend web
 - 🌱 I’m currently learning React and Product building 
 - 👯 I’m looking to collaborate on web-based projects 
 - 📫 How to reach me:- <br>
-Feel free to massage me on LinkedIn <a href="https://www.linkedin.com/in/sktamim/">@Sk Tamim</a><br>
+Feel free to message me on LinkedIn <a href="https://www.linkedin.com/in/sktamim/">@Sk Tamim</a><br>
 or Mail me on - sktamim225@gmail.com
 
 
